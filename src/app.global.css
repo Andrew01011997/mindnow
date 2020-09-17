@@ -1,0 +1,28 @@
+*{
+    font-size: 10pt;
+    margin: 0;
+    padding: 0;
+    font-family: Gotham Pro, sans-serif;
+    color: #ffffff;
+}
+
+@keyframes typing{
+    start {
+        opacity: 1;
+    }
+    50%{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+@keyframes line_scroll{
+    start{
+        transform: translateY(-200%);
+    }
+    to{
+        transform: translateY(200%);
+    }
+}
+
