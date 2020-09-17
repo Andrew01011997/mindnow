@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mindnow/static/css/main.93b15fe9.chunk.css",
-    "main.js": "/mindnow/static/js/main.d71e0504.chunk.js",
-    "main.js.map": "/mindnow/static/js/main.d71e0504.chunk.js.map",
+    "main.js": "/mindnow/static/js/main.291793b7.chunk.js",
+    "main.js.map": "/mindnow/static/js/main.291793b7.chunk.js.map",
     "runtime-main.js": "/mindnow/static/js/runtime-main.e48a9629.js",
     "runtime-main.js.map": "/mindnow/static/js/runtime-main.e48a9629.js.map",
     "static/js/2.bae303d0.chunk.js": "/mindnow/static/js/2.bae303d0.chunk.js",
     "static/js/2.bae303d0.chunk.js.map": "/mindnow/static/js/2.bae303d0.chunk.js.map",
     "index.html": "/mindnow/index.html",
-    "precache-manifest.0fc351747444152866bec61964bb94c4.js": "/mindnow/precache-manifest.0fc351747444152866bec61964bb94c4.js",
+    "precache-manifest.1a5186a3ce55c7d843871d9558948cfe.js": "/mindnow/precache-manifest.1a5186a3ce55c7d843871d9558948cfe.js",
     "service-worker.js": "/mindnow/service-worker.js",
     "static/css/main.93b15fe9.chunk.css.map": "/mindnow/static/css/main.93b15fe9.chunk.css.map",
     "static/js/2.bae303d0.chunk.js.LICENSE.txt": "/mindnow/static/js/2.bae303d0.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.e48a9629.js",
     "static/js/2.bae303d0.chunk.js",
     "static/css/main.93b15fe9.chunk.css",
-    "static/js/main.d71e0504.chunk.js"
+    "static/js/main.291793b7.chunk.js"
   ]
 }
