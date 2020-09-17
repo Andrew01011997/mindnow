@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/mindnow/static/css/main.93b15fe9.chunk.css",
+    "main.js": "/mindnow/static/js/main.d71e0504.chunk.js",
+    "main.js.map": "/mindnow/static/js/main.d71e0504.chunk.js.map",
+    "runtime-main.js": "/mindnow/static/js/runtime-main.e48a9629.js",
+    "runtime-main.js.map": "/mindnow/static/js/runtime-main.e48a9629.js.map",
+    "static/js/2.bae303d0.chunk.js": "/mindnow/static/js/2.bae303d0.chunk.js",
+    "static/js/2.bae303d0.chunk.js.map": "/mindnow/static/js/2.bae303d0.chunk.js.map",
+    "index.html": "/mindnow/index.html",
+    "precache-manifest.0fc351747444152866bec61964bb94c4.js": "/mindnow/precache-manifest.0fc351747444152866bec61964bb94c4.js",
+    "service-worker.js": "/mindnow/service-worker.js",
+    "static/css/main.93b15fe9.chunk.css.map": "/mindnow/static/css/main.93b15fe9.chunk.css.map",
+    "static/js/2.bae303d0.chunk.js.LICENSE.txt": "/mindnow/static/js/2.bae303d0.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "/mindnow/static/media/GothamPro.e9fea5af.ttf",
+    "static/media/Logo__Chicoree.png": "/mindnow/static/media/Logo__Chicoree.3fdd7e66.png",
+    "static/media/Logo__Chronoswiss.png": "/mindnow/static/media/Logo__Chronoswiss.7c2b51fc.png",
+    "static/media/Logo__CocaCola.png": "/mindnow/static/media/Logo__CocaCola.302c508e.png",
+    "static/media/about.6e8ba4f0.svg": "/mindnow/static/media/about.6e8ba4f0.svg",
+    "static/media/mn-logo-black.07151208.svg": "/mindnow/static/media/mn-logo-black.07151208.svg",
+    "static/media/mn-logo-white.55cc6592.svg": "/mindnow/static/media/mn-logo-white.55cc6592.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e48a9629.js",
+    "static/js/2.bae303d0.chunk.js",
+    "static/css/main.93b15fe9.chunk.css",
+    "static/js/main.d71e0504.chunk.js"
+  ]
+}
